@@ -1,4 +1,5 @@
 #include <ctime>
+
 using namespace std;
 class Clock {
 public:
